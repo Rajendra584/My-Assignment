@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidMenu</string>
+    <string-array name="hero_names">
+        <item>Tony Stark</item>
+        <item>steve rogers</item>
+        <item>clint</item>
+        <item>Bruce Banner</item>
+        <item>thor</item>
+    </string-array>
+
+</resources>

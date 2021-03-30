@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegistrationPage</string>
+    <string-array name="braches">
+        <item>cse</item>
+        <item>it</item>
+        <item>ece</item>
+        <item>civil</item>d
+    </string-array>
+</resources>
